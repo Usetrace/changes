@@ -1,5 +1,9 @@
 # changes
 
+## 2017-02-19
+* Fixed: leading/trailing whitespace confuses setElementSelected step
+* Browsermob upgraded to 2.1.4
+
 ## 2017-02-18
 * Fixed: (editor) sometimes pointer does not appear, gets stuck in "wait..."
 

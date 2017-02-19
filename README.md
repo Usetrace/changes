@@ -20,4 +20,3 @@
 * Fixed: forking a trace should not copy the description field
 * Fixed: parameter tab UI when there're no parameters
 * Performance: (api) increased throughput of calls to 'execute'
-* 

@@ -14,7 +14,7 @@
 
 ## 2017-02-11
 * New: (editor) variable step type
-* Fixed: selecting an item containing quotes from a <select> element fails
+* Fixed: selecting an item containing quotes from a 'select' element fails
 * Fixed: app doesn't load if Mixpanel is blocked (adblocker)
 * Fixed: clicking an element fails if a fixed navi-element (top/bottom) blocks it  
 * Fixed: forking a trace should not copy the description field

@@ -1,5 +1,4 @@
 # changes
-Change log
 
 ## 2017-02-18
 * Fixed: (editor) sometimes pointer does not appear, gets stuck in "wait..."

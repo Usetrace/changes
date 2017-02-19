@@ -24,3 +24,10 @@
 * Fixed: forking a trace should not copy the description field
 * Fixed: parameter tab UI when there're no parameters
 * Performance: (api) increased throughput of calls to 'execute'
+
+## 2017-01-15
+* New: (editor) locate element by text
+* New: (editor) record drag-and-drop (html5, jQueryUI)
+* New: (dashboard) flush queue button to clean up project's trace queue
+* Fixed: (reports) formatting bug: "1min 60s" -> "2min"
+* Fixed: (editor) some step type names missing on hover

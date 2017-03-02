@@ -1,5 +1,8 @@
 # changes
 
+## 2017-03-02
+* New: invite team members to project
+
 ## 2017-02-19
 * Fixed: (playback) leading/trailing whitespace confuses setElementSelected step
 * Browsermob upgraded to 2.1.4

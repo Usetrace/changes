@@ -1,5 +1,9 @@
 # changes
 
+## 2017-03-13
+* New: changes to traces synced automatically between users (no page reload needed)
+* Fixed: new traces not sorted correctly by modification time in tracelist
+
 ## 2017-03-02
 * New: invite team members to project
 

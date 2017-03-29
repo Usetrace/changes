@@ -6,6 +6,9 @@
 * Fixed: random replacement in checks attempted for longest match first
 * Fixed: enabling a condition in a check step may break the check step
 * Fixed: file upload playback sometimes throws an error with custom upload UI widget
+* Fixed: deleted trace can reappear
+* Fixed: (editor) occassional "version creation failed"
+* Fixed: (editor) 'run this step' button sometimes in wrong state when a trace is running
 
 ## 2017-03-13
 * New: changes to traces synced automatically between users (no page reload needed)

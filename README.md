@@ -1,5 +1,8 @@
 # changes
 
+## 2017-04-02
+* New: (chrome playback) auto-allow notification dialogs
+
 ## 2017-03-29
 * New: random text support for text locators
 * New: session log to include steps' task boundaries

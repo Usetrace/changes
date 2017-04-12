@@ -1,5 +1,8 @@
 # changes
 
+## 2017-04-12
+* Fixed: a subset of trial users unable to access the subscription page
+
 ## 2017-04-02
 * New: (chrome playback) auto-allow notification dialogs
 

@@ -1,5 +1,12 @@
 # changes
 
+## 2017-05-03
+* Fixed (playback): File dialog remains open in some edge cases
+* Fixed (recorder): Can't check a disabled input field
+* Optimizations to speed up the Usetrace browser infrastructure
+* Improved DNS performance
+* IEs updated to Selenium 2.53.1
+
 ## 2017-04-12
 * Fixed: a subset of trial users unable to access the subscription page
 

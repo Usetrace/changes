@@ -1,5 +1,9 @@
 # changes
 
+## 2017-05-27
+* New automatic variables BROWSER, BROWSER_NAME, BROWSER_VERSION
+* Various optimizations in the infrastructure
+
 ## 2017-05-03
 * Fixed (playback): File dialog remains open in some edge cases
 * Fixed (recorder): Can't check a disabled input field

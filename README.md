@@ -1,5 +1,9 @@
 # changes
 
+## 2017-05-30
+* Fixed (editor): Browsing routines while running a trace can result in Editor getting stuck in the "Running..." state
+* Fixed (backend): automatically retried sessions may show inconsistent results (for a short period)
+
 ## 2017-05-29
 * Documentation screenshots updated to match current UI
 

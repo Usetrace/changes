@@ -1,8 +1,8 @@
 # changes
 
 ## 2017-05-30
-* Fixed: (editor) Browsing routines while running a trace can result in Editor getting stuck in the "Running..." state
-* Fixed: (backend) Automatically retried sessions may show inconsistent results (for a short period)
+* Fixed: (editor) browsing routines while running a trace can result in Editor getting stuck in the "Running..." state
+* Fixed: (backend) automatically retried sessions may show inconsistent results (for a short period)
 
 ## 2017-05-29
 * Documentation screenshots updated to match current UI
@@ -12,8 +12,8 @@
 * Various optimizations in the infrastructure
 
 ## 2017-05-03
-* Fixed: (playback) File dialog remains open in some edge cases
-* Fixed: (recorder) Can't check a disabled input field
+* Fixed: (playback) file dialog remains open in some edge cases
+* Fixed: (recorder) can't check a disabled input field
 * Optimizations to speed up the Usetrace browser infrastructure
 * Improved DNS performance
 * IEs updated to Selenium 2.53.1

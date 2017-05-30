@@ -1,5 +1,8 @@
 # changes
 
+## 2017-05-29
+* Documentation screenshots updated to match current UI
+
 ## 2017-05-27
 * New automatic variables BROWSER, BROWSER_NAME, BROWSER_VERSION
 * Various optimizations in the infrastructure

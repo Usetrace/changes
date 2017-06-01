@@ -1,5 +1,8 @@
 # changes
 
+## 2017-06-01
+* New: (editor) Custom parameters can be defined in routine calls
+
 ## 2017-05-30
 * Fixed: (editor) browsing routines while running a trace can result in Editor getting stuck in the "Running..." state
 * Fixed: (backend) automatically retried sessions may show inconsistent results (for a short period)

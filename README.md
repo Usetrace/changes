@@ -1,5 +1,13 @@
 # changes
 
+## 2017-06-26
+* New: (editor) file download step
+* New: (editor) custom files (via File Download step)
+* New: (editor) enhanced page history (meaningful page titles)
+* Fixed: (recorder) SFDC picklists
+* Fixed: (playback) "els not defined"
+* Fixed: (firefox) disable geolocation prompt
+
 ## 2017-06-01
 * New: (editor) Custom parameters can be defined in routine calls
 

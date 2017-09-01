@@ -2,7 +2,7 @@
 
 ## 2017-08-30
 * New: ability to add multiple schedules
-* While loop (beta)
+* New: (editor) While loop (beta)
 * Fixed: reporter crash
 * Fixed: sometimes browsers not released to the pool after system errors
 

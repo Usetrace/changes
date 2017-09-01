@@ -1,5 +1,11 @@
 # changes
 
+## 2017-08-30
+* New: ability to add multiple schedules
+* While loop (beta)
+* Fixed: reporter crash
+* Fixed: sometimes browsers not released to the pool after system errors
+
 ## 2017-06-26
 * New: (editor) file download step
 * New: (editor) custom files (via File Download step)

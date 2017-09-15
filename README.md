@@ -1,5 +1,11 @@
 # changes
 
+## 2017-09-15
+* New: (editor) while loop enabled for all
+* New: (results) ability to switch the browser in the results view
+* Fixed: (all traces) new tags not in search autocomplete until page refresh
+* Fixed: (all traces) the results button sometimes disabled when there're results
+
 ## 2017-08-30
 * New: ability to add multiple schedules
 * New: (editor) While loop (beta)

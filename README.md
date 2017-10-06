@@ -1,5 +1,8 @@
 # changes
 
+## 2017-10-05
+* New: (API) added lastBatchStatus command
+
 ## 2017-09-15
 * New: (editor) while loop enabled for all
 * New: (results) ability to switch the browser in the results view

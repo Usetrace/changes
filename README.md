@@ -3,6 +3,12 @@
 ## 2017-10-05
 * New: (API) added lastBatchStatus command
 
+## 2017-10-05
+* Fixed: some scheduled traces would not be executed
+
+## 2017-09-26
+* Fixed: HipChat reporter can get stuck
+
 ## 2017-09-15
 * New: (editor) while loop enabled for all
 * New: (results) ability to switch the browser in the results view

@@ -1,4 +1,4 @@
-# changes
+# Usetrace.com | changes
 
 ## 2017-10-05
 * New: (API) added lastBatchStatus command

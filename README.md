@@ -3,7 +3,7 @@
 ## 2017-10-05
 * New: (API) added lastBatchStatus command
 
-## 2017-10-05
+## 2017-10-02
 * Fixed: some scheduled traces would not be executed
 
 ## 2017-09-26

@@ -1,7 +1,7 @@
 # Usetrace.com | changes
 
 ## 2017-10-12
-* Fix: (runner) a step can no longer get completely stuck even if the webdriver backend gets stuck
+* Fixed: (runner) a step can no longer get completely stuck even if the webdriver backend gets stuck
 
 ## 2017-10-05
 * New: (API) added lastBatchStatus command

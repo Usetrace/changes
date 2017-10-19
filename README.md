@@ -1,5 +1,10 @@
 # Usetrace.com | changes
 
+## 2017-10-19
+* New: (editor) autocompletion feature for routines
+* New: (runner) slow typing
+* Fixed: (editor) step looping UI losing state
+
 ## 2017-10-12
 * Fixed: (runner) a step can no longer get completely stuck even if the webdriver backend gets stuck
 

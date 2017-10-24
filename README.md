@@ -1,5 +1,8 @@
 # Usetrace.com | changes
 
+## 2017-10-23
+* New: (recorder) support for custom data attribute locators
+
 ## 2017-10-19
 * New: (editor) autocompletion feature for routines
 * New: (runner) slow typing
